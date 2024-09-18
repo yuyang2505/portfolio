@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navMenu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 60px;
+  padding: 25px;
+  font-size: 2em;
+}
+
+.navMenu li {
+  font-family: "Roboto Mono";
+  cursor: pointer;
+}
+
+.navMenu li:hover {
+  color: #0987f2;
+  transform: scale(1.06);
+}
+
+.navbar img{
+    height: 50px;
+}
+
+.navMenu li {
+  color: var(--text-color);
+}
