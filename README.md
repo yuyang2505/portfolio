@@ -1,4 +1,3 @@
-
-#To Do List
--Create a slider for images in project cards 
--Update remaining project components
+## To-do List
+- Create slider for images 
+- Finish up remaining Project components
