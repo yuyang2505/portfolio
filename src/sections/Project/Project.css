@@ -2,7 +2,9 @@
   display: flex;
   flex-direction: column;
   text-align: center;
-  max-width: 1250px;
+  max-width: 1300px;
+  padding-bottom: 100px;
+  justify-content: center;
 }
 
 .projectList{
@@ -19,5 +21,6 @@
     border: 2px solid var(--text-color);
     border-radius: 10px;
     padding: 20px;
+
     
 }

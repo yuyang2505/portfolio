@@ -3,7 +3,7 @@ import ProjectCard from "../../common/ProjectCard";
 
 const Project = () => {
   return (
-    <section id="project" className="projectContainer">
+    <section id="projects" className="projectContainer">
       <h1 className="sectionTitle">Projects</h1>
       <div className="projectList">
         <ProjectCard
@@ -19,7 +19,7 @@ const Project = () => {
         <ProjectCard
           title="Personal Portfolio Website"
           description="Built with React and CSS"
-          link="https://https://github.com/yuyang2505/portfolio"
+          link="https://github.com/yuyang2505/portfolio"
         />
       </div>
     </section>
